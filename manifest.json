@@ -1,5 +1,5 @@
 {
-    "id": "rat-flatmap",
+    "id": "rat-flatmap-test",
     "models": "NCBITaxon:10114",
     "description": "description.json",
     "properties": "properties.json",
@@ -7,7 +7,7 @@
     "sources": [
         {
             "id": "whole-rat",
-            "href": "rat_flatmap.svg",
+            "href": "rat_flatmap_test1.svg",
             "kind": "base"
         }
     ],
